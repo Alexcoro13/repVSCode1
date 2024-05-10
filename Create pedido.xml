@@ -3,5 +3,6 @@
   <pedido>  
     <cliente>Pepe</cliente>
     <referencia>ACIN0005</referencia>
+    <fecha>2024-05-11</fecha>
   </pedido>
 </pedidos>
