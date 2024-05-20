@@ -10,4 +10,9 @@
     <referencia>ACIN0005</referencia>
     <fecha>2024-05-11</fecha>
   </pedido>
+  <pedido>
+    <cliente>Pedro</cliente>
+    <referencia>ACIN0006</referencia>
+    <fecha>2024-05-20</fecha>
+  </pedido>
 </pedidos>
